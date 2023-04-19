@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Tanay Wagh
 - 👀 I’m interested in Front-end Developement 
 - 🌱 I’m currently learning technologies that are used to build awesome web applications
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 💞️ A highly passionate tech enthusiast with an excellent academic record and professional experience in leadership and management skills. An avid learner with the ability to translate business requirements into technical solutions.
+
+
 
 <!---
 TanayWagh314e/TanayWagh314e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
